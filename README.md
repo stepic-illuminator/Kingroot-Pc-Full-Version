@@ -241,4 +241,4 @@ This repository serves as the official landing page for KingRoot PC. The softwar
 **Get the most recent version of KingRoot PC today!**
 
 ---
-**Last updated:** 2026-10-24 15:09:38 UTC
+**Last updated:** 2026-10-24 18:29:50 UTC
